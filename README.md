@@ -1,3 +1,7 @@
+## Local Machine Update
+
+This change was made locally and will be pushed to GitHub.
+
 # Requirement Document
 ## Functional Requirement
 1. ต้องการ user account เพื่อจอง
